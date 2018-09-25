@@ -17,6 +17,6 @@ public class ReturnLastScene : MonoBehaviour {
 
     public void OnClick()
     {
-        SceneManager.LoadScene(UserData.instance.lastMode.Pop());
+        SceneManager.LoadScene("mainhome_");
     }
 }

@@ -146,7 +146,7 @@ public class UserData : MonoBehaviour
             {
                 command = "";
                 lastMode.Clear();
-                SceneManager.LoadScene("mainhome");
+                SceneManager.LoadScene("mainhome_");
             }
         }
         if (timeInterval2 >= 60f)

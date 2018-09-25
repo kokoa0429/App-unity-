@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/mainhome_.unity
     guid: fc609999bbf0ece4db7d885be07b269a
   - enabled: 0
     path: Assets/Scenes/kikakuhome_.unity
     guid: bc0c2197163c89444801c75960c34b27
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/mainhome.unity
     guid: b1fdc9aa3eb6ff947b3118620888d014
   - enabled: 1

@@ -868,7 +868,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Fullscreen @ Main Camera
   type: 0
-  _camera: {fileID: 0}
+  _camera: {fileID: 1965349744}
 --- !u!114 &313888499
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1933,17 +1933,17 @@ Prefab:
     - target: {fileID: 224348399836753796, guid: dccd30c09aeb3fb48b347215a7f23323,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000056440622
+      value: -0.0001647341
       objectReference: {fileID: 0}
     - target: {fileID: 224697614124986686, guid: dccd30c09aeb3fb48b347215a7f23323,
         type: 2}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 0.000000059604645
       objectReference: {fileID: 0}
     - target: {fileID: 224574413710051004, guid: dccd30c09aeb3fb48b347215a7f23323,
         type: 2}
       propertyPath: m_AnchorMin.x
-      value: 0
+      value: 0.000000059604645
       objectReference: {fileID: 0}
     - target: {fileID: 114868557699421352, guid: dccd30c09aeb3fb48b347215a7f23323,
         type: 2}

@@ -14,7 +14,7 @@ public class SideMenuClick : MonoBehaviour {
         switch (text.text)
         {
             case "ホーム":
-                SceneManager.LoadScene("mainhome");
+                SceneManager.LoadScene("mainhome_");
                 break;
             case "企画一覧":
                 SceneManager.LoadScene("kikakuhome");

@@ -9,6 +9,6 @@ public class BackHome : MonoBehaviour {
     {
         UserData.instance.command = "";
         UserData.instance.lastMode.Clear();
-        SceneManager.LoadScene("mainhome");
+        SceneManager.LoadScene("mainhome_");
     }
 }
